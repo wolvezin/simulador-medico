@@ -9,7 +9,6 @@ import gspread
 import time
 import re
 
-# ⚙️ Configuração da Página
 st.set_page_config(
     page_title="Simulador Médico IA",
     page_icon="🩺",
